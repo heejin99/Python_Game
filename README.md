@@ -14,7 +14,9 @@
 - 자세한 내용은 [여기](https://github.com/heejin99/Python_Game/tree/master/pygame_pang)
 
 ## pygame_airplane (전투기 게임)
+- [블로그](https://m.blog.naver.com/PostList.nhnblogId=scyan2011&categoryNo=59&logCode=0&categoryName=Python%20game) 참고해서 만든 내용
 - 코드 설명과 자세한 내용은 [여기](https://github.com/heejin99/Python_Game/tree/master/pygame_airplane)
 
 ## pygame_dog (배고픈 강아지 게임)
+- [블로그](https://m.blog.naver.com/PostList.nhnblogId=scyan2011&categoryNo=59&logCode=0&categoryName=Python%20game) 참고해서 만든 내용
 - 코드 설명과 자세한 내용은 [여기](https://github.com/heejin99/Python_Game/tree/master/pygame_dog)
